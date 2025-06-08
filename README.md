@@ -35,7 +35,6 @@ Basic user input handling
 Language: Python 3.x
 Platform: CLI (Command Line Interface)
 
-📄 License
-This project is open-source and free to use under the MIT License.
+
 
 
