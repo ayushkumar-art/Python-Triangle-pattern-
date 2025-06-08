@@ -10,12 +10,13 @@ User-friendly CLI input for number of rows
 Simple use of nested loops and basic Python syntax
 
 🧾 Code Overview
-1. Lower Triangular Pattern
+
+1.Lower Triangular Pattern
 
 
 ![image](https://github.com/user-attachments/assets/21156b59-353a-4727-89c6-112df55851e7)
 
-2. Upper Triangular Pattern
+2.Upper Triangular Pattern
 
 
 ![image](https://github.com/user-attachments/assets/7d5bbf1f-f90e-4e40-abc1-aa748a405994)
